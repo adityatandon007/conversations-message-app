@@ -40,6 +40,7 @@ export default {
 <style scoped>
 .message-list {
   border: 1px solid black;
+  box-shadow: 0px 1px 1px gray;
   font-size: 16px;
   height: 400px;
   margin: 0;
