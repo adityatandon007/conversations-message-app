@@ -1,7 +1,8 @@
 # Conversation Message App
-A demo showing conversations and a message text to add messages.
+A conversations messaging app that displays sender and receivers messages with the feature of sending reply messages.
 
-# Live
+## Checkout the app below
+[Conversation Message App](https://conversations-message-app.netlify.app/)
 
 
 ## Libraries/frameworks used
@@ -12,7 +13,11 @@ A demo showing conversations and a message text to add messages.
 
 ## Features
 
-- Created in VueJS by using VueX
+- Displays senders and receivers message
+- Adds a functionalitys to sent replys
+- Auto Scrolls to the latest sent message
+- Implements a Vuex store with 2 different modules
+- Simulates an api mock using setTimeout
 
 ## Project setup
 ```
