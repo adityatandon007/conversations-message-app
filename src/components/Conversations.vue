@@ -39,7 +39,7 @@ export default {
 </script>
 <style scoped>
 .message-list {
-  border: 1px solid #ccf;
+  border: 1px solid black;
   font-size: 16px;
   height: 400px;
   margin: 0;

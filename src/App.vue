@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>Conversation Message App</h1>
     <conversations v-if="loaded" :messages="messages" :current-user="currentUser" />
     <composer v-model="message" @submit="sendReply" />
   </div>
